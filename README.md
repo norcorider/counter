@@ -2,7 +2,7 @@
 
 This tiny counter based on flask framework can show how many times you're visited genereted page. 
 
-# Gettimg started 
+# Getting started 
 
 run locally:
 install python3.6
